@@ -1,0 +1,34 @@
+{
+    "category": {
+        "clothing": {
+            "T-Shirt": {
+                "price": 350,
+                "image": "/t-shirt.png"
+            },
+            "Hat": {
+                "price": 250,
+                "image": "/hat.png"
+            },
+            "Hoodie": {
+                "price": 700,
+                "image": "/hoodie.png"
+            }
+        },
+        "accessories": {
+            "Bag": {
+                "price": 640,
+                "image": "/bag.png"
+            },
+            "Belt": {
+                "price": 230,
+                "image": "/belt.png"
+            }
+        },
+        "electronics": {
+            "Watch": {
+                "price": 850,
+                "image": "/watch.png"
+            }
+        }
+    }
+}
